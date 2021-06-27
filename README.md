@@ -1,7 +1,7 @@
 # Password Manager
 * This is a python script used to manage your passwords. 
 * It can be used to add a new record of account and password, update or delete records of existing accounts and also to copy the passwords of exisiting accounts to your clipboard. 
-* This script is created using ***os, pyperclip and sys*** libraries of python.
+* This script is created using ***os, pyperclip and sys*** modules of python.
 
 
 
